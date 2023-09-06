@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>* tentang layanan akademik *</pattern>
+    <pattern>* tentang layanan akademik</pattern>
+    <pattern>tentang layanan akademik</pattern>
+    <template>Kami memiliki berbagai layanan akademik kampus yang meliputi pendaftaran, jadwal kuliah, perpustakaan, dan lainnya. Bagaimana saya dapat membantu Anda lebih lanjut?</template>
+</category>
+</aiml>

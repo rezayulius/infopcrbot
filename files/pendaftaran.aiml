@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>* mendaftar</pattern>
+    <template>Proses pendaftaran di kampus kami dimulai dengan mengunjungi situs web resmi kami https://pmb.pcr.ac.id/ dan mengikuti panduan pendaftaran online. Kami juga memiliki pusat pendaftaran yang dapat membantu Anda secara langsung. Apakah ada yang lain yang ingin Anda tanyakan tentang pendaftaran?</template>
+</category>
+<category>
+    <pattern>mendaftar*</pattern>
+    <template>Proses pendaftaran di kampus kami dimulai dengan mengunjungi situs web resmi kami https://pmb.pcr.ac.id/ dan mengikuti panduan pendaftaran online. Kami juga memiliki pusat pendaftaran yang dapat membantu Anda secara langsung. Apakah ada yang lain yang ingin Anda tanyakan tentang pendaftaran?</template>
+</category>
+<category>
+    <pattern>* mendaftar *</pattern>
+    <template>Proses pendaftaran di kampus kami dimulai dengan mengunjungi situs web resmi kami https://pmb.pcr.ac.id/ dan mengikuti panduan pendaftaran online. Kami juga memiliki pusat pendaftaran yang dapat membantu Anda secara langsung. Apakah ada yang lain yang ingin Anda tanyakan tentang pendaftaran?</template>
+</category>
+<category>
+    <pattern>persyaratan *</pattern>
+    <template>Untuk informasi tentang persyaratan pendaftaran, termasuk dokumen yang diperlukan dan persyaratan lainnya, Anda dapat mengunjungi halaman pendaftaran resmi kami di situs web. Apakah ada yang lain yang ingin Anda tanyakan?</template>
+</category>
+<category>
+    <pattern>* persyaratan</pattern>
+    <template>Untuk informasi tentang persyaratan pendaftaran, termasuk dokumen yang diperlukan dan persyaratan lainnya, Anda dapat mengunjungi halaman pendaftaran resmi kami di situs web. Apakah ada yang lain yang ingin Anda tanyakan?</template>
+</category>
+<category>
+    <pattern>* persyaratan *</pattern>
+    <template>Untuk informasi tentang persyaratan pendaftaran, termasuk dokumen yang diperlukan dan persyaratan lainnya, Anda dapat mengunjungi halaman pendaftaran resmi kami di situs web. Apakah ada yang lain yang ingin Anda tanyakan?</template>
+</category>
+</aiml>
